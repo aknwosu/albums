@@ -1,0 +1,2 @@
+type Mentor implements Node, Timestamped {
+}
